@@ -107,6 +107,5 @@ input[type="submit"] {
 }
 
 input:hover{
-    background: var(--background-hover);
     transform: scale(1.1);
 }
